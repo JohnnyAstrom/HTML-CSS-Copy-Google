@@ -1,0 +1,96 @@
+header {
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+}
+
+.left-section {
+  display: flex;
+  position: relative;
+  align-items: center;
+  cursor: pointer;
+  margin-left: 60px;
+  flex-shrink: 0;
+}
+
+.google-icon-text {
+  height: 40px;
+}
+
+.middle-section {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  margin-left: 40px;
+  max-width: 600px;
+  min-width: 500px;
+  width: 100%;
+}
+
+.search-bar {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 40px;
+  border-radius: 25px;
+  border: 1px solid lightgray;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+.search-bar:hover {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.search-bar-icons {
+  cursor: pointer;
+  position: absolute;
+  align-items: center;
+  height: 35px;
+}
+
+.icon1 {
+  right: 90px;
+}
+
+.icon2 {
+  right: 50px;
+}
+
+.icon3 {
+  right: 10px;
+}
+
+.right-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 180px;
+  margin-right: 15px;
+  margin-left: auto;
+  cursor: pointer;
+}
+
+.right-section-icons {
+  height: 24px;
+  border-radius: 50%;
+}
+
+.right-section-icons:hover {
+  background-color: #f3f5f6;
+  padding: 10px;
+}
+
+.sign-in-button {
+  background-color: hsl(219, 100%, 50%);
+  color: white;
+  width: 80px;
+  height: 35px;
+  border-radius: 20px;
+  cursor: pointer;
+}

@@ -1,0 +1,313 @@
+@media (max-width: 1300px) {
+  .content-result {
+    margin-left: 60px;
+  }
+
+  .google-container {
+    margin-bottom: 5px;
+    margin-top: 30px;
+    background-color: white;
+    height: 900px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  .google-se {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 22px;
+    text-decoration: none;
+    margin-bottom: 5px;
+  }
+
+  .google-icon {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+  }
+
+  .google-se-submenu {
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+
+  .span-text {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .google-se-submenu .more-results {
+    font-size: 14px;
+  }
+
+  .google-about-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 650px;
+    height: 400px;
+    padding-bottom: 10px;
+    color: rgb(31, 31, 31)
+  }
+
+  .google-about-box-container {
+    display: flex;
+    flex-direction: row;
+    width: 650px;
+    height: 400px;
+    justify-content: space-between;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-top: 10px;
+  }
+
+  .google-about-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 184px;
+    height: 246px;
+    background-color: #f3f5f6;
+    border-radius: 15px;
+    padding: 10px;
+    position: relative;
+  }
+
+  .google-about-box .wikipedia-link {
+    padding-top: 15px;
+  }
+
+  .google-about-box img {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    height: auto;
+  }
+
+  .google-about-box .small-text {
+    font-size: 12px;
+  }
+
+  .google-about {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+
+  .google-about-more {
+    background-color: #f3f5f6;
+    height: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 650px;
+  }
+
+  .google-about-button {
+    border: none;
+    width: 200px;
+    background-color: #f3f5f6;
+    height: 36px;
+    width: 300px;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+
+  .google-container-2 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    background-color: white;
+    height: 120px;
+    width: 600px;
+
+  }
+
+  .google-help .google-trends {
+    margin-top: -10px;
+  }
+
+  .google-store {
+    margin-top: 0px;
+  }
+
+  .google-trends-translate {
+    font-size: 14px;
+    display: flex;
+    align-items: end;
+  }
+
+  .google-trends-translate a {
+    margin-bottom: 4px;
+    margin-right: 8px;
+  }
+}
+
+
+
+@media (min-width: 1300.01px) {
+  .content-result {
+    margin-left: 150px;
+  }
+
+  .google-container {
+    margin-bottom: 5px;
+    margin-top: 30px;
+    background-color: white;
+    height: 900px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  .google-se {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 22px;
+    text-decoration: none;
+    margin-bottom: 5px;
+  }
+
+  .google-icon {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+  }
+
+  .google-se-submenu {
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+
+  .span-text {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .google-se-submenu .more-results {
+    font-size: 14px;
+  }
+
+  .google-about-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 650px;
+    height: 400px;
+    padding-bottom: 10px;
+    color: rgb(31, 31, 31)
+  }
+
+  .google-about-box-container {
+    display: flex;
+    flex-direction: row;
+    width: 650px;
+    height: 400px;
+    justify-content: space-between;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-top: 10px;
+  }
+
+  .google-about-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 184px;
+    height: 246px;
+    background-color: #f3f5f6;
+    border-radius: 15px;
+    padding: 10px;
+    position: relative;
+  }
+
+  .google-about-box .wikipedia-link {
+    padding-top: 15px;
+  }
+
+  .google-about-box img {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    height: auto;
+  }
+
+  .google-about-box .small-text {
+    font-size: 12px;
+  }
+
+  .google-about {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+
+  .google-about-more {
+    background-color: #f3f5f6;
+    height: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 650px;
+  }
+
+  .google-about-button {
+    border: none;
+    width: 200px;
+    background-color: #f3f5f6;
+    height: 36px;
+    width: 300px;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+
+  .google-container-2 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    background-color: white;
+    height: 120px;
+    width: 600px;
+
+  }
+
+  .google-help .google-trends {
+    margin-top: -10px;
+  }
+
+  .google-store {
+    margin-top: 0px;
+  }
+
+  .google-trends-translate {
+    font-size: 14px;
+    display: flex;
+    align-items: end;
+  }
+
+  .google-trends-translate a {
+    margin-bottom: 4px;
+    margin-right: 8px;
+  }
+}
