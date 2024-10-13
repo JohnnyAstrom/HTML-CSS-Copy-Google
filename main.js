@@ -3,6 +3,8 @@ let activeDropdown = null;
 
 const dropdownItems = document.querySelectorAll('.dropdown-content .dropdown-item');
 
+const inputSearch = document.querySelectorAll('.search-bar');
+
 
 dropdownButtons.forEach(function(button) {
   button.addEventListener('click', function() {
@@ -28,9 +30,11 @@ dropdownButtons.forEach(function(button) {
   });
 });
 
-dropdownItems.forEach(item => {
+dropdownItems.forEach(function(item) {
   item.addEventListener('click', function() {
-    dropdownItems.forEach(i => i.classList.remove('active-dropdown-item'));
+    dropdownItems.forEach(function(i) {
+      i.classList.remove('active-dropdown-item');
+    });
     
     this.classList.add('active-dropdown-item');
   });
