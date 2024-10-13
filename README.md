@@ -4,7 +4,7 @@ About the Project: This project is an extensive exercise in front-end developmen
 
 Key Learnings:
 
-- Mastered HTML and CSS fundamentals for building responsive layouts.
+- Improved HTML and CSS fundamentals for building responsive layouts.
 - Improved proficiency in using flexbox and grid for efficient page design.
 - Developed skills in semantic markup for improved accessibility and SEO.
 - Enhanced problem-solving abilities through hands-on coding challenges.
