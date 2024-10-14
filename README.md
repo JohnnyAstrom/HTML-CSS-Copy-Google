@@ -1,6 +1,6 @@
 **Project Title: Google Clone Project**
 
-About the Project: This project is an extensive exercise in front-end development, inspired by the principles of responsive web design and user interface creation. By building a clone of the Google homepage, I aimed to reinforce my HTML and CSS skills while exploring key concepts like semantic markup, flexbox, and grid layout techniques. The project allowed me to experiment with styling and structuring a web page, ensuring that it functions well across different screen sizes and devices. Through this hands-on approach, I deepened my understanding of web development practices and gained confidence in applying these techniques effectively.
+About the Project: This is my first solo project where I tried to make a clone of landing page of google.se after searching for "google.se" in the search bar.
 
 Key Learnings:
 
